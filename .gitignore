@@ -1,2 +1,8 @@
-# Ignore output of scraper
-data.sqlite
+*.db
+*.db-journal
+
+*.pdf
+*.bak
+*.py[co]
+
+j-archive
